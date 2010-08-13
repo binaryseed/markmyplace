@@ -1,0 +1,10 @@
+#mmp_marker
+{
+	position: absolute; 
+	z-index: 100; 
+	top: -100px; 
+	left: 0px; 
+	right: 0px; 
+	height: 20px; 
+	background: rgba(247,241,41,.3);
+}
